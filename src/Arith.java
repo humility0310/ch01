@@ -26,6 +26,14 @@ public class Arith {
 		System.out.println("a++ =" + a++);
 
 		System.out.println("++a =" + ++a);
+
+		// 나누기연산
+		System.out.println("10/3 = " + 10 / 3);
+		System.out.println("10/3 = " + 10. / 3);
+		System.out.println("10/3 = " + 10 / 3.);
+
+		System.out.println(-7 % 3);
+		System.out.println(7 % -3);
 	}
 
 }

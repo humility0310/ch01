@@ -26,5 +26,6 @@ public class SwtichTest {
 			}
 		}
 		System.out.println(month + "월은 " + days + "일까지 있습니다.");
+		scan.close();
 	}
 }

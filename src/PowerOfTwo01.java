@@ -18,6 +18,7 @@ public class PowerOfTwo01 {
 		
 		
 		System.out.println("2의 " + pow + "제곱근은 " + result + "입니다.");
+		scanner.close();
 	}
 
 }

@@ -13,22 +13,23 @@ public class Swap {
 		int a1 = 20;
 		int a2 = 10;
 		int a3 = 50;
-		int result = (a1>a2)?((a1>a3)?a1:a3):((a2>a3)?a2:a3);
-		
-		/*if(a1>a2){
-			if(a1>a3){
-				System.out.println("a1이 "+ a1 + "으로 가장 크다.");
-			}else{
-				System.out.println("a3가 "+ a3 + "으로 가장 크다.");
+
+		int result = (a1 > a2) ? ((a1 > a3) ? a1 : a3) : ((a2 > a3) ? a2 : a3);
+
+		/*if (a1 > a2) {
+			if (a1 > a3) {
+				System.out.println("a1이 " + a1 + "으로 가장 크다.");
+			} else {
+				System.out.println("a3가 " + a3 + "으로 가장 크다.");
 			}
-		}else{
-			if(a2>a3){
-				System.out.println("a2가 "+ a2 + "으로 가장 크다.");
-			}else{
-				System.out.println("a3이 "+ a3 + "으로 가장 크다.");
+		} else {
+			if (a2 > a3) {
+				System.out.println("a2가 " + a2 + "으로 가장 크다.");
+			} else {
+				System.out.println("a3이 " + a3 + "으로 가장 크다.");
 			}
 		}*/
-		
+
 		System.out.println("가장큰값은 " + result + "입니다.");
 	}
 }

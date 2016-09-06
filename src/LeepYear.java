@@ -5,6 +5,7 @@ public class LeepYear {
 		
 		Scanner scan = new Scanner(System.in);
 
+		System.out.printf("올해를 입력하세요 :");
 		String year = scan.nextLine();
 		
 		if (Integer.parseInt(year) % 4 == 0) {

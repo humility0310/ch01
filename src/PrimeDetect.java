@@ -22,5 +22,6 @@ public class PrimeDetect {
 		} else {
 			System.out.println(num + "은 소수가 아닙니다.");
 		}
+		scan.close();
 	}
 }

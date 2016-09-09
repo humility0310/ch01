@@ -1,3 +1,4 @@
+package class_0906;
 
 public class InfiniteLoop {
 

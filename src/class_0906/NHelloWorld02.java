@@ -1,3 +1,4 @@
+package class_0906;
 import java.util.Scanner;
 
 public class NHelloWorld02 {

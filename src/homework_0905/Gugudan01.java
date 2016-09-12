@@ -1,4 +1,4 @@
-package homework;
+package homework_0905;
 
 public class Gugudan01 {
 

@@ -1,3 +1,4 @@
+package class_0905;
 import java.util.*;
 public class SwtichTest {
 

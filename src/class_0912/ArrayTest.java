@@ -14,7 +14,7 @@ public class ArrayTest {
 		int sum = 0;
 		int size = scores.length;
 		System.out.println("size = " + size);
-		for (int i = 0; i <= size; i++) {
+		for (int i = 0; i < size; i++) {
 			sum += scores[i];
 		}
 		System.out.println(sum);

@@ -18,6 +18,14 @@ public class ArrayTest3 {
 		int[] arrayInt4 = {1, 2, 3, 4, 5};
 		
 //		Book[] books = {new Book(), new Book()};
+		
+		String[] month = {"Jan", "Feb", "Mar", "Apr", "May"};
+		//비추천
+		int[] arrayInt5 = new int[]{10, 20, 30, 40};
+		
+//		error
+//		int[] arrayInt6;
+//		arrayInt6 = {100, 200, 300, 400};
 	}
 
 }

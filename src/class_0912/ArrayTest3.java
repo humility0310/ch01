@@ -14,7 +14,6 @@ public class ArrayTest3 {
 		arrayInt1[2]=3;
 		arrayInt1[3]=4;
 		arrayInt1[4]=5;
-		
 		int[] arrayInt4 = {1, 2, 3, 4, 5};
 		
 //		Book[] books = {new Book(), new Book()};
